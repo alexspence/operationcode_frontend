@@ -10,7 +10,7 @@ class AccordianItem extends Component {
           className={styles.accordianItemHeading}
           aria-expanded="false"
           aria-controls="accordion1"
-          class="accordion-title accordionTitle js-accordionTrigger">First Accordion heading</a>
+        >First Accordion heading</a>
       </dt>
     );
   }
